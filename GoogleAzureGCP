@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T14:34:51.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4dWaf_eqOP1W8RqME1SZ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T14:51:42.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RRp39AozuTQCItr5E9cF" version="21.6.8" type="github">
   <diagram name="Page-1" id="dUXzoXipQtBYhgp4HQKL">
-    <mxGraphModel dx="2783" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2397" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,8 +165,32 @@
         <mxCell id="_VH5KHNGmLGVoQc5WmUu-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/2560px-HSBC_logo_%282018%29.svg.png;" vertex="1" parent="1">
           <mxGeometry x="1380" y="460" width="53.57" height="14.42" as="geometry" />
         </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_VH5KHNGmLGVoQc5WmUu-91" target="_VH5KHNGmLGVoQc5WmUu-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_VH5KHNGmLGVoQc5WmUu-91" target="_VH5KHNGmLGVoQc5WmUu-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_VH5KHNGmLGVoQc5WmUu-91" target="_VH5KHNGmLGVoQc5WmUu-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_VH5KHNGmLGVoQc5WmUu-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="757.9399999999998" y="790" width="72.42" height="100" as="geometry" />
+          <mxGeometry x="538.2899999999998" y="830" width="72.42" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#3333FF;dashed=1;" edge="1" parent="1" source="_VH5KHNGmLGVoQc5WmUu-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="574" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;dashed=1;" edge="1" parent="1" source="_VH5KHNGmLGVoQc5WmUu-92" target="_VH5KHNGmLGVoQc5WmUu-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="574" y="386" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_VH5KHNGmLGVoQc5WmUu-92" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png;imageBorder=#7F00FF;" vertex="1" parent="1">
           <mxGeometry x="550" y="694.73" width="49" height="36.77" as="geometry" />
@@ -176,6 +200,49 @@
         </mxCell>
         <mxCell id="_VH5KHNGmLGVoQc5WmUu-94" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png;imageBorder=#7F00FF;" vertex="1" parent="1">
           <mxGeometry x="80" y="696.27" width="49" height="36.77" as="geometry" />
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#3333FF;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1034.51" y="694.7" as="sourcePoint" />
+            <mxPoint x="1229.51" y="519.7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1033.51" y="694.7" />
+              <mxPoint x="1033.51" y="519.7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1034.96" y="706.26" as="sourcePoint" />
+            <mxPoint x="1129" y="394.03000000000026" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1034.96" y="397.29" />
+              <mxPoint x="1033.96" y="397.29" />
+              <mxPoint x="1033.96" y="394.29" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.726;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;dashed=1;" edge="1" parent="1" target="_VH5KHNGmLGVoQc5WmUu-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="103.57" y="694.73" as="sourcePoint" />
+            <mxPoint x="128.57" y="385.73" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="104" y="386" />
+              <mxPoint x="103" y="386" />
+              <mxPoint x="103" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VH5KHNGmLGVoQc5WmUu-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#3333FF;dashed=1;entryX=0.011;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_VH5KHNGmLGVoQc5WmUu-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="103.85" y="694.7" as="sourcePoint" />
+            <mxPoint x="230" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="104" y="520" />
+              <mxPoint x="103" y="520" />
+              <mxPoint x="103" y="521" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
