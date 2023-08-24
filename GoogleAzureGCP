@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T18:41:19.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="InS91y4KBAFAOyosTy0i" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T18:50:52.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ENzRjg6IuFnT-2jwbAU2" version="21.6.9" type="github">
   <diagram name="Page-1" id="dUXzoXipQtBYhgp4HQKL">
     <mxGraphModel dx="3814" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -378,6 +378,63 @@
         </mxCell>
         <mxCell id="deIFic6sdGU9SHHrAcrF-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png;imageBorder=#7F00FF;" vertex="1" parent="1">
           <mxGeometry x="1196.91" y="1100" width="39.98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-56" value="DEVELOPMENT&amp;nbsp; AND TESTING" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="900" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-57" value="DEVELOPMENT AND TESTING" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="900" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-58" value="CONSUMPTION" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="72" y="1017.39" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-59" value="CONSUMPTION" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1017.3899999999999" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-60" value="GCP APPLICATION 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="243.56999999999994" y="1181.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-61" value="GCP APPLICATION 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242.56999999999994" y="1211.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-62" value="GCP APPLICATION 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241.57999999999993" y="1242.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-63" value="GCP APPLICATION 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241.57999999999993" y="1269.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-64" value="AWS APPLICATION 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="694.48" y="1181.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-65" value="AWS APPLICATION 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="694.48" y="1212.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-66" value="AWS APPLICATION 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="694.48" y="1241.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-67" value="AWS APPLICATION 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="694.48" y="1272.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-68" value="AZURE APPLICATION 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1164.41" y="1181.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-69" value="AZURE APPLICATION 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1164.41" y="1212.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-70" value="AZURE APPLICATION 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1164.41" y="1241.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-71" value="AZURE APPLICATION 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1164.41" y="1271.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-72" value="MODULE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254.79000000000002" y="1069.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-73" value="MODULE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1069.9999999999998" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-74" value="MODULE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1181.46" y="1069.9999999999998" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
