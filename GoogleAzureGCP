@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T18:39:42.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-tz9IH9ER_9sGVhR5UXz" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T18:41:19.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="InS91y4KBAFAOyosTy0i" version="21.6.9" type="github">
   <diagram name="Page-1" id="dUXzoXipQtBYhgp4HQKL">
     <mxGraphModel dx="3814" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -360,6 +360,24 @@
         </mxCell>
         <mxCell id="deIFic6sdGU9SHHrAcrF-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png;imageBorder=#7F00FF;" vertex="1" parent="1">
           <mxGeometry x="1395.08" y="1270" width="39.98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-48" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="326.95" y="1090" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png;imageBorder=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="286.97" y="1100" width="39.98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-50" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="773.5699999999999" y="1090" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png;imageBorder=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="733.59" y="1100" width="39.98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1236.8899999999999" y="1090" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="deIFic6sdGU9SHHrAcrF-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png;imageBorder=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="1196.91" y="1100" width="39.98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
