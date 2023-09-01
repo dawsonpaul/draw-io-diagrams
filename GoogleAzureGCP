@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T10:34:04.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dNHBUFkUf6hQfOwKO1no" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T10:35:14.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hYYIwqTwbif-EwxBvFZm" version="21.7.1" type="github">
   <diagram name="Page-1" id="dUXzoXipQtBYhgp4HQKL">
     <mxGraphModel dx="2569" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -415,11 +415,11 @@
         <mxCell id="deIFic6sdGU9SHHrAcrF-74" value="MODULE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1139.33" y="1079.9999999999998" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="deIFic6sdGU9SHHrAcrF-81" value="GCP Consumer&amp;nbsp;Stacks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="437.67" y="1212" width="231.33" height="25.01" as="geometry" />
+        <mxCell id="deIFic6sdGU9SHHrAcrF-81" value="GCP Consumer&amp;nbsp;Stacks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="437.67" y="1180" width="231.33" height="25.01" as="geometry" />
         </mxCell>
-        <mxCell id="deIFic6sdGU9SHHrAcrF-86" value="AWS&amp;nbsp;Consumer&amp;nbsp;Stacks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1210.49" width="231.33" height="25.01" as="geometry" />
+        <mxCell id="deIFic6sdGU9SHHrAcrF-86" value="AWS&amp;nbsp;Consumer&amp;nbsp;Stacks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1174.49" width="231.33" height="25.01" as="geometry" />
         </mxCell>
         <mxCell id="deIFic6sdGU9SHHrAcrF-91" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="172.15" y="1277.24" width="303" height="111.52" as="geometry" />
@@ -511,7 +511,7 @@
           <mxGeometry x="1190.64" y="1412.3099999999997" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KIAavC-5oPt5kD4Rrmoi-20" value="Azure&amp;nbsp;Consumer&amp;nbsp;Stacks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1213" width="231.33" height="25.01" as="geometry" />
+          <mxGeometry x="1350" y="1177" width="231.33" height="25.01" as="geometry" />
         </mxCell>
         <mxCell id="KIAavC-5oPt5kD4Rrmoi-21" value="GCP App 1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#B3B3B3;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="209.60999999999996" y="1463" width="62" height="68.8" as="geometry" />
@@ -593,6 +593,9 @@
         </mxCell>
         <mxCell id="KIAavC-5oPt5kD4Rrmoi-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/git-fork-128.png;rotation=-180;imageBackground=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1308.0000000000002" y="1434" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="KIAavC-5oPt5kD4Rrmoi-54" value="AWS APPLICATION 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="693.98" y="1180.9999999999998" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
